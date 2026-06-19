@@ -1,0 +1,8 @@
+{
+  "name": "hynki-code",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
